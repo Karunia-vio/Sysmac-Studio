@@ -17,4 +17,5 @@ Sysmac Studio adalah perangkat lunak terintegrasi yang dikembangkan oleh OMRON u
 
 # Link tutorial penggunaan sysmac studio
 https://www.youtube.com/watch?v=qFiT6GGCIqY&list=PLy_eLBBb1i3MzGGQY_RuzeB6gQeAUdrm2
+
 https://www.youtube.com/playlist?list=PL-lZImt5XzhjE8kP1CQZit2ITuJM8q_DF
